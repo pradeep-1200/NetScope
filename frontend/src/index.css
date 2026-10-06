@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+  body {
+    background-color: var(--color-slate-900);
+    color: var(--color-slate-200);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }

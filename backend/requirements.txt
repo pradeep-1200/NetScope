@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+dnspython
+requests
+python-whois
+ipwhois
+jinja2
+pydantic
+pytest
